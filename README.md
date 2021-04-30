@@ -1,4 +1,2 @@
 # datos2
-
-
-esta es la parte vieja
+esta es la parte nueva
